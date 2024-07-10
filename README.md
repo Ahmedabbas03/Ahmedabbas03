@@ -4,7 +4,7 @@
 
 - 🔭 I’m a third-year computer science student at **Oregon State University**
 
-- 👨🏿‍💻 I’m passionate **about coding, machine learning, and building robust applications.**
+- 👨🏿‍💻 I’m passionate **about coding, machine learning, and building web applications.**
 
 - 📫 How to reach me **ahmedamabbas@gmail.com**
 
