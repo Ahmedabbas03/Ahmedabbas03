@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabbas03&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabbas03" /> </p>
 
-- 🔭 I’m a third-year computer science student at **Oregon State University**
+- 🔭 I’m a computer science student at **Oregon State University**
 
 - 👨🏿‍💻 I’m passionate **about coding, machine learning, and building web applications.**
 
