@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabbas03&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabbas03" /> </p>
 
-- 🔭 I’m a computer science student at **Oregon State University**
-
-- 👨🏿‍💻 I’m passionate **about coding, machine learning, and building web applications.**
-
-- 📫 How to reach me **ahmedamabbas@gmail.com**
+- 🔭 I’m a Software Engineeer and I build **web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
